@@ -1,2 +1,1 @@
-# ctverecekmenicibarvu
-čtverec mění barvu
+Zmena-barvy-podle-pozice
